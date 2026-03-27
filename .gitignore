@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+*.log
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Build directory
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# React Native
+# Build output
+android/app/build/
+android/build/
+ios/build/
+
+# Misc
+.DS_Store
+*.tgz
+*.swp
+*.swo
+*.theia
